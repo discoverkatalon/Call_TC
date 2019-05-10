@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC2_Calling_TC1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c3ed0b4d-b230-4d40-b6ea-1bd05a524cbc</testCaseGuid>
+</TestCaseEntity>

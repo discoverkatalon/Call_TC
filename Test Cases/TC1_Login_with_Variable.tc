@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC1_Login_with_Variable</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2e8014ee-ddf5-467b-a399-4be90dd0ae20</testCaseGuid>
+   <variable>
+      <defaultValue>'TC_1'</defaultValue>
+      <description></description>
+      <id>b60c2f70-dea9-4a21-99c2-7644d7a79acf</id>
+      <masked>false</masked>
+      <name>email_ID</name>
+   </variable>
+</TestCaseEntity>
